@@ -1,4 +1,4 @@
-const url = 'https://weatherapp-backend-umber.vercel.app';
+const url = 'https://weatherapp-backend-eight-coral.vercel.app';
 
 fetch(`${url}/weather`)
 	.then(response => response.json())

@@ -1,4 +1,4 @@
-const url = 'https://weatherapp-backend-umber.vercel.app';
+const url = 'https://weatherapp-backend-eight-coral.vercel.app';
 
 document.querySelector('#register').addEventListener('click', function () {
     const user = {
